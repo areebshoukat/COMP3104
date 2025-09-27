@@ -2,4 +2,4 @@
 
 
 # GitHub Action Status Badge
-[![CI](https://github.com/areebshoukat/COMP3104/COMP3104/actions/workflows/ci.yml/badge.svg)](https://github.com/areebshoukat/COMP3104/COMP3104/actions/workflows/ci.yml)
+[![CI](https://github.com/areebshoukat/COMP3104/actions/workflows/ci.yml/badge.svg)](https://github.com/areebshoukat/COMP3104/actions/workflows/ci.yml)
